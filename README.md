@@ -70,6 +70,7 @@ Built with [PlatformIO](https://platformio.org/) or the Arduino IDE.
 platform = atmelavr
 board = uno
 framework = arduino
+
 lib_deps =
-    majicdesigns/MD_Parola
-    majicdesigns/MD_MAX72XX
+    https://github.com/majicdesigns/md_parola
+    https://github.com/majicdesigns/MD_MAX72XX
