@@ -1,5 +1,7 @@
 # Ready Set Time ⏱️
 
+![13.37 Image](images/firstTime.jpg)
+
 An arcade-style precision stopwatch and reaction timing game built with an **Arduino Uno**, a **MAX7219 4-in-1 LED Matrix (8×32)**, an arcade pushbutton, and an active buzzer.
 
 Designed for interactive booth activations, time-guessing games, and precision stop challenges (e.g., *"hit exactly 3.77s"*).
